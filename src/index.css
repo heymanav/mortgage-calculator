@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  font-family: "poppins","Roboto","Sans Serif";
+  color: pink;
+  font-size: 20px;
+  padding: 0px;
+}
+header{
+  margin-bottom: 20px;
+	color: pink;
+	font-family: 'poppins', "Roboto", "sans-serif";
+  font-weight: bolder;
+	word-spacing: 1.5px;
+  letter-spacing: 8px;
+  text-align: center;
+}
+label{
+  font-weight: bolder;
+}
+.form{
+  padding: 10px 15%;
+  margin-left: 10%;
+  display: inline-flexbox;
+}
+.form_input{
+  text-align: center;
+  width: 70%;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #2e2d2d;
+  margin-top: 10px;
+  display: inline-block;
+}
+.form_input input[type="text"]{
+  width: 80%;
+  padding: 20px; 
+  border: 1px solid #ff93bc;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 55px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 20px;
+	color: pink;
+  font-family: 'poppins', "Roboto", "sans-serif";
+  font-weight: bolder;
+  letter-spacing: 2px;
+  word-spacing: 1px;
+  margin-left: 24%;
+}
